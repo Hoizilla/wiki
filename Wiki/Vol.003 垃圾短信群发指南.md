@@ -1,5 +1,3 @@
-
-
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/ipaperclip/static/img/20200101191314.gif">
 </div>
